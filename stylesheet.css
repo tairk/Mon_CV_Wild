@@ -1,0 +1,18 @@
+body {
+	background-color: rgb(104, 187, 285);
+}
+
+#left-box{
+	float: left;
+	background-color: rgb(9, 30, 45);
+	color: white;
+	margin-right: 30px;
+}
+
+#experiences-box{
+	background-color: white;
+}
+
+#studies-box{
+	background-color: white;
+}
